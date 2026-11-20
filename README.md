@@ -57,5 +57,7 @@ Content-Type: application/json
 4. http://localhost:8000/docs
 
 make stop - остановка контейнера
+
 make start - запуск контейнера
+
 make clean - удаление контейнера и образа
