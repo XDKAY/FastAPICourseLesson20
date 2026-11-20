@@ -51,6 +51,7 @@ Content-Type: application/json
 
 # Запуск
 
+0. Создайте .env файл в FastAPICourseLesson20 (см. env.example) 
 1. make build - создаст образ из Dockerfile
 2. make run - запуск контейнера из образа
 3. make logs - просмотр логов внутри контейнера
